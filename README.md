@@ -1,2 +1,2 @@
 # voda_test
-Vodafone test
+To run the the code just use "npx ts-node src/index.ts"
